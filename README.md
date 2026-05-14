@@ -1,60 +1,83 @@
-# 👋 Welcome to Coding Kannadiga
+# 👋 Hey, I'm Coding Kannadiga
 
-🚀 *Learn. Build. Implement.*
+🚀 **Learn. Build. Implement.**
 
-Coding Kannadiga is a tech-focused YouTube channel and GitHub hub dedicated to learning and implementing modern technologies through structured, practical content.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=coding_kannadiga-18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 💡 About
+
+Coding Kannadiga is a tech-focused YouTube channel and GitHub hub dedicated to **learning and implementing modern technologies** through structured, practical content.
+
+This is not just about tutorials — it's about **building real skills through real projects**.
 
 ---
 
 ## 🎯 What You’ll Find Here
 
-- 📘 Well-structured learning resources  
-- 💻 Clean and practical code implementations  
-- 🧠 Concept breakdowns for better understanding  
-- 🚀 Real-world projects and hands-on builds  
-- 🔬 Exploration of new and trending technologies  
+- 📘 Structured learning resources  
+- 💻 Clean, production-style code  
+- 🧠 Concept-first explanations  
+- 🚀 Real-world projects  
+- 🔬 Exploration of modern technologies  
 
 ---
 
 ## 🛠️ Focus Areas
 
-- Programming & Software Development  
+- Software Development  
 - Data Science & AI/ML  
 - App & Web Development  
-- Problem Solving & Logic Building  
-- Real-World Project Implementation  
+- Problem Solving & System Thinking  
+- Real-World Project Building  
 
 ---
 
-## 📂 Repository Structure
+## 📂 How This Repo is Organized
 
-Each repository is organized to align with the content on the YouTube channel:
-- Topic-wise learning
-- Project-based implementation
-- Practice-driven approach
+Each repository is designed to match the learning journey:
+
+- 📁 Topic-based learning  
+- 📁 Project-based implementation  
+- 📁 Practice-driven structure  
 
 ---
 
 ## 📺 YouTube Channel
 
-Follow along with detailed tutorials and builds:  
-👉 **Coding Kannadiga** https://youtube.com/@codingkannadiga-18?si=5uNuOSkWhmi1v5wa
+👉 **Coding Kannadiga**  
+https://youtube.com/@codingkannadiga
 
 ---
 
 ## 🔥 Vision
 
-To help learners go beyond just theory — by **building, experimenting, and implementing real-world solutions** with modern technologies.
+To help learners go beyond tutorials and become **builders** — by working on real-world problems using modern technologies.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coding_kanadiga-18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding_kannadiga-18&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Connect & Support
 
-If you find this helpful:
+If you find this valuable:
+
 - ⭐ Star the repositories  
-- 🍴 Fork and explore  
+- 🍴 Fork and build  
 - 📢 Share with others  
 
 ---
 
-**Keep Learning. Keep Building. 🚀**
+## ⚡ Motto
+
+> **Learn → Build → Repeat 🚀**
