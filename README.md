@@ -3,7 +3,7 @@
 🚀 **Learn. Build. Implement.**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=coding_kannadiga-18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=coding-kannadiga-18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -62,8 +62,8 @@ To help learners go beyond tutorials and become **builders** — by working on r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coding_kanadiga-18&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding_kannadiga-18&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coding-kannadiga-18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-kannadiga-18&theme=tokyonight" />
 </p>
 
 ---
